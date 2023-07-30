@@ -2,8 +2,8 @@
     {
         "id": 1,
         "title": "the north face jacket",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "stylish jacket",
+        "description": "The Denali Jacket is a versatile jacket that can be used for a variety of outdoor activities, such as hiking, camping, and skiing. It is made from a water-resistant and windproof material that will keep you warm and dry in cold weather. The jacket also features a fleece lining that provides added warmth.",
         "price": 309.99,
         "image": "./assets/images/product1.png",
         "isNew": true,
@@ -13,8 +13,8 @@
     {
         "id": 2,
         "title": "brown coat",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "versatile coat",
+        "description": "A brown coat is a versatile and stylish piece of outerwear that can elevate any outfit. Whether you’re looking for a casual or formal look, a brown coat is warmth, comfort and flair.",
         "price": 449.99,
         "image": "./assets/images/product2.png",
         "isNew": true,
@@ -24,8 +24,8 @@
     {
         "id": 3,
         "title": "black hoodie",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "must have for wardrobe",
+        "description": "A black hoodie is a must-have item for any wardrobe. Wearning it keep you cozy, fashionable, and confident.",
         "price": 175.5,
         "image": "./assets/images/product3.png",
         "isNew": true,
@@ -35,8 +35,8 @@
     {
         "id": 4,
         "title": "scarf and coat",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "essential scarf and coat",
+        "description": "A scarf and coat are essential items for the cold season. They can keep you warm, comfortable, and stylish.",
         "price": 799.99,
         "image": "./assets/images/product4.png",
         "isNew": true,
