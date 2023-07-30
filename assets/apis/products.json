@@ -46,8 +46,8 @@
     {
         "id": 5,
         "title": "white cap",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "cool cap",
+        "description": "A white cap is a simple and stylish accessory that can complete any outfit. It is a type of headwear that has a flat or curved brim and a crown that fits snugly on the head.",
         "price": 29.99,
         "image": "./assets/images/product5.png",
         "isNew": false,
@@ -57,8 +57,8 @@
     {
         "id": 6,
         "title": "red nike sneakers",
-        "trendTitle": "Lorem ipsum dolor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "trendTitle": "nike air",
+        "description": "Sporty and stylish footwear which anyone loves. Nike Air technology provides cushioning, comfort, and support for your feet",
         "price": 179.99,
         "image": "./assets/images/product6.png",
         "isNew": true,
